@@ -164,20 +164,18 @@ header {
 	background: #A1C6D7;
 }
 
-/* Education
+/* Education & CERTIFICATION
 ------------------------------------*/
-.education {
+.edu-cert {
 	background-image: url(../images/joanna-kosinska-unsplash.jpg);
 	background-size: cover;
 	background-position: top right;
 	padding-bottom: 80px;
 }
 
-.education p {
+.edu-cert p {
 	width: 70%;
 }
-
-
 
 /* Contact Info
 ------------------------------------*/
@@ -224,10 +222,3 @@ footer {
 	column-gap: 20px;
 	}
 }
-
-
-
-
-
-
-
